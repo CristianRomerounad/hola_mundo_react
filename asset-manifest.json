@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.22632f6c.css",
-    "main.js": "/static/js/main.3e0b89c6.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
-    "index.html": "/index.html",
-    "main.22632f6c.css.map": "/static/css/main.22632f6c.css.map",
-    "main.3e0b89c6.js.map": "/static/js/main.3e0b89c6.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/hola_mundo_react_typescript/static/css/main.22632f6c.css",
+    "main.js": "/hola_mundo_react_typescript/static/js/main.4e3e57bb.js",
+    "static/js/787.28cb0dcd.chunk.js": "/hola_mundo_react_typescript/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/hola_mundo_react_typescript/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
+    "index.html": "/hola_mundo_react_typescript/index.html",
+    "main.22632f6c.css.map": "/hola_mundo_react_typescript/static/css/main.22632f6c.css.map",
+    "main.4e3e57bb.js.map": "/hola_mundo_react_typescript/static/js/main.4e3e57bb.js.map",
+    "787.28cb0dcd.chunk.js.map": "/hola_mundo_react_typescript/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.22632f6c.css",
-    "static/js/main.3e0b89c6.js"
+    "static/js/main.4e3e57bb.js"
   ]
 }
